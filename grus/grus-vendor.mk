@@ -201,6 +201,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_image_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_image_optical_zoom.so \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_optical_zoom_control.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_optical_zoom_control.so \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_refocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus.so \
+    vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_refocus_front.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus_front.so \
+    vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_refocus_rear_t.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus_rear_t.so \
+    vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_refocus_rear_w.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_refocus_rear_w.so \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_dualcam_video_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_dualcam_video_optical_zoom.so \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_high_dynamic_range.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_high_dynamic_range.so \
     vendor/xiaomi/grus/proprietary/vendor/lib/libarcsoft_low_light_hdr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libarcsoft_low_light_hdr.so \
